@@ -11,6 +11,10 @@ $grey : #aaaaaa;
   box-sizing: inherit;
 }
 
+::selection{
+  background: #08ffbd;
+}
+
 body {
   width: 100%;
   height: 90vh;
